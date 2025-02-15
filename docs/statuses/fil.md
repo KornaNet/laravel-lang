@@ -4,12 +4,50 @@ editLink: false
 
 # fil
 
-##### All missed: 239
+##### All missed: 218
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
 
 
 ### json
 
-##### Missing: 239
+##### Missing: 214
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,15 +151,6 @@ Antarctica
 </td></tr>
 <tr><td width="50%">
 
-API Token
-
-</td><td width="50%">
-
-API Token
-
-</td></tr>
-<tr><td width="50%">
-
 Argentina
 
 </td><td width="50%">
@@ -361,15 +390,6 @@ Card
 </td><td width="50%">
 
 Card
-
-</td></tr>
-<tr><td width="50%">
-
-Central African Republic
-
-</td><td width="50%">
-
-Central African Republic
 
 </td></tr>
 <tr><td width="50%">
@@ -581,24 +601,6 @@ Email
 </td></tr>
 <tr><td width="50%">
 
-email
-
-</td><td width="50%">
-
-email
-
-</td></tr>
-<tr><td width="50%">
-
-Email Address
-
-</td><td width="50%">
-
-Email Address
-
-</td></tr>
-<tr><td width="50%">
-
 Equatorial Guinea
 
 </td><td width="50%">
@@ -640,15 +642,6 @@ Ethiopia
 </td><td width="50%">
 
 Ethiopia
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
 
 </td></tr>
 <tr><td width="50%">
@@ -703,15 +696,6 @@ French Polynesia
 </td><td width="50%">
 
 French Polynesia
-
-</td></tr>
-<tr><td width="50%">
-
-French Southern Territories
-
-</td><td width="50%">
-
-French Southern Territories
 
 </td></tr>
 <tr><td width="50%">
@@ -959,24 +943,6 @@ Ireland
 </td></tr>
 <tr><td width="50%">
 
-Isle Of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
-
-</td></tr>
-<tr><td width="50%">
-
 Israel
 
 </td><td width="50%">
@@ -1036,15 +1002,6 @@ Kiribati
 </td><td width="50%">
 
 Kiribati
-
-</td></tr>
-<tr><td width="50%">
-
-Korea
-
-</td><td width="50%">
-
-South Korea
 
 </td></tr>
 <tr><td width="50%">
@@ -1139,24 +1096,6 @@ Lithuania
 </td></tr>
 <tr><td width="50%">
 
-Log Out
-
-</td><td width="50%">
-
-Log Out
-
-</td></tr>
-<tr><td width="50%">
-
-Log out
-
-</td><td width="50%">
-
-Log out
-
-</td></tr>
-<tr><td width="50%">
-
 Luxembourg
 
 </td><td width="50%">
@@ -1229,15 +1168,6 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Mark Read
-
-</td><td width="50%">
-
-Mark Read
-
-</td></tr>
-<tr><td width="50%">
-
 Martinique
 
 </td><td width="50%">
@@ -1261,15 +1191,6 @@ Mauritius
 </td><td width="50%">
 
 Mauritius
-
-</td></tr>
-<tr><td width="50%">
-
-May
-
-</td><td width="50%">
-
-May
 
 </td></tr>
 <tr><td width="50%">
@@ -1553,20 +1474,20 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
-password
+Password
 
 </td><td width="50%">
 
-password
+Password
 
 </td></tr>
 <tr><td width="50%">
 
-Password
+password
 
 </td><td width="50%">
 
-Password
+password
 
 </td></tr>
 <tr><td width="50%">
@@ -1630,33 +1551,6 @@ Recovery Code
 </td><td width="50%">
 
 Recovery Code
-
-</td></tr>
-<tr><td width="50%">
-
-Refresh
-
-</td><td width="50%">
-
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Reload
-
-</td><td width="50%">
-
-Reload
-
-</td></tr>
-<tr><td width="50%">
-
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
 
 </td></tr>
 <tr><td width="50%">
@@ -1697,29 +1591,11 @@ Réunion
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthelemy
-
-</td><td width="50%">
-
-St. Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
 Saint Barthélemy
 
 </td><td width="50%">
 
 Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin
-
-</td><td width="50%">
-
-St. Martin
 
 </td></tr>
 <tr><td width="50%">
@@ -1765,15 +1641,6 @@ Serbia
 </td><td width="50%">
 
 Serbia
-
-</td></tr>
-<tr><td width="50%">
-
-Setup Key
-
-</td><td width="50%">
-
-Setup Key
 
 </td></tr>
 <tr><td width="50%">
@@ -1832,15 +1699,6 @@ Slovenia
 </td></tr>
 <tr><td width="50%">
 
-Solomon Islands
-
-</td><td width="50%">
-
-Solomon Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Somalia
 
 </td><td width="50%">
@@ -2003,15 +1861,6 @@ Tuvalu
 </td></tr>
 <tr><td width="50%">
 
-Two Factor Authentication
-
-</td><td width="50%">
-
-Two Factor Authentication
-
-</td></tr>
-<tr><td width="50%">
-
 Uganda
 
 </td><td width="50%">
@@ -2048,42 +1897,6 @@ United Kingdom
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
-
-</td><td width="50%">
-
-United States Minor Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
-United States Outlying Islands
-
-</td><td width="50%">
-
-U.S. Outlying Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Update
-
-</td><td width="50%">
-
-Update
-
-</td></tr>
-<tr><td width="50%">
-
-Update :resource
-
-</td><td width="50%">
-
-Update :resource
-
-</td></tr>
-<tr><td width="50%">
-
 Update :resource: :title
 
 </td><td width="50%">
@@ -2098,6 +1911,15 @@ Uruguay
 </td><td width="50%">
 
 Uruguay
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
 
 </td></tr>
 <tr><td width="50%">
@@ -2163,13 +1985,42 @@ Zimbabwe
 Zimbabwe
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Zip / Postal Code
+prohibited_if_accepted
 
 </td><td width="50%">
 
-Zip / Postal Code
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
 
 </td></tr>
 </table>

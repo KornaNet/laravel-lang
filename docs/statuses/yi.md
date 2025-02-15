@@ -4,12 +4,12 @@ editLink: false
 
 # yi
 
-##### All missed: 12
+##### All missed: 7
 
 
 ### json
 
-##### Missing: 12
+##### Missing: 3
 
 <table width="100%">
 <tr><th width="50%">
@@ -32,56 +32,11 @@ Brazil
 </td></tr>
 <tr><td width="50%">
 
-CSV (.csv)
-
-</td><td width="50%">
-
-CSV (.csv)
-
-</td></tr>
-<tr><td width="50%">
-
 Guernsey
 
 </td><td width="50%">
 
 Guernsey
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
-Loading
-
-</td><td width="50%">
-
-Loading
-
-</td></tr>
-<tr><td width="50%">
-
-Logout
-
-</td><td width="50%">
-
-Logout
-
-</td></tr>
-<tr><td width="50%">
-
-Martinique
-
-</td><td width="50%">
-
-Martinique
 
 </td></tr>
 <tr><td width="50%">
@@ -93,40 +48,80 @@ Pitcairn
 Pitcairn
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Saint Barthélemy
+prohibited_if_accepted
 
 </td><td width="50%">
 
-Saint Barthélemy
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
+prohibited_if_declined
 
 </td><td width="50%">
 
-Sint Maarten
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-SKU
+prohibited_if_declined
 
 </td><td width="50%">
 
-SKU
-
-</td></tr>
-<tr><td width="50%">
-
-View
-
-</td><td width="50%">
-
-View
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

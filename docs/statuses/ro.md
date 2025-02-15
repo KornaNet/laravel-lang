@@ -4,12 +4,12 @@ editLink: false
 
 # ro
 
-##### All missed: 115
+##### All missed: 128
 
 
 ### json
 
-##### Missing: 115
+##### Missing: 122
 
 <table width="100%">
 <tr><th width="50%">
@@ -320,6 +320,15 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
 Djibouti
 
 </td><td width="50%">
@@ -500,6 +509,15 @@ India
 </td></tr>
 <tr><td width="50%">
 
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
 Israel
 
 </td><td width="50%">
@@ -541,6 +559,15 @@ Kosovo
 </td><td width="50%">
 
 Kosovo
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -743,6 +770,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Oman
 
 </td><td width="50%">
@@ -847,6 +883,15 @@ San Marino
 </td><td width="50%">
 
 San Marino
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -941,6 +986,15 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 Tokelau
 
 </td><td width="50%">
@@ -1013,6 +1067,15 @@ Uruguay
 </td></tr>
 <tr><td width="50%">
 
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
 Uzbekistan
 
 </td><td width="50%">
@@ -1054,6 +1117,100 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 3
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 3
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

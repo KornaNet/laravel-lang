@@ -9,7 +9,7 @@ editLink: false
 
 ### json
 
-##### Missing: 5
+##### Missing: 1
 
 <table width="100%">
 <tr><th width="50%">
@@ -30,40 +30,80 @@ API Token
 API Token
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-CSV (.csv)
+prohibited_if_accepted
 
 </td><td width="50%">
 
-CSV (.csv)
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-ex VAT
+prohibited_if_declined
 
 </td><td width="50%">
 
-ex VAT
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Run Action
+prohibited_if_declined
 
 </td><td width="50%">
 
-Run Action
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

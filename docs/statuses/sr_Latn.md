@@ -4,7 +4,7 @@ editLink: false
 
 # sr_Latn
 
-##### All missed: 322
+##### All missed: 345
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 259
+##### Missing: 274
 
 <table width="100%">
 <tr><th width="50%">
@@ -187,11 +187,11 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-365 Days
+A decryption key is required.
 
 </td><td width="50%">
 
-365 Days
+A decryption key is required.
 
 </td></tr>
 <tr><td width="50%">
@@ -219,6 +219,24 @@ A new verification link has been sent to your email address.
 </td><td width="50%">
 
 A new verification link has been sent to your email address.
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -394,6 +412,15 @@ Are you sure you want to log out?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to remove this item?
 
 </td><td width="50%">
@@ -444,15 +471,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td><td width="50%">
 
 Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
-Attendance
-
-</td><td width="50%">
-
-Attendance
 
 </td></tr>
 <tr><td width="50%">
@@ -529,20 +547,20 @@ Change Subscription Plan
 </td></tr>
 <tr><td width="50%">
 
-Checkout
+Change the current payment method attached to your subscription
 
 </td><td width="50%">
 
-Checkout
+Change the current payment method attached to your subscription
 
 </td></tr>
 <tr><td width="50%">
 
-Choose a project
+Checkout
 
 </td><td width="50%">
 
-Choose a project
+Checkout
 
 </td></tr>
 <tr><td width="50%">
@@ -718,11 +736,20 @@ Delete all notifications
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
+Delete Notification
 
 </td><td width="50%">
 
-Download Receipt
+Delete Notification
+
+</td></tr>
+<tr><td width="50%">
+
+Download Invoice
+
+</td><td width="50%">
+
+Download Invoice
 
 </td></tr>
 <tr><td width="50%">
@@ -763,11 +790,47 @@ Email Addresses
 </td></tr>
 <tr><td width="50%">
 
-Employee
+Email Verification
 
 </td><td width="50%">
 
-Employee
+Email Verification
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
 
 </td></tr>
 <tr><td width="50%">
@@ -804,6 +867,15 @@ Expires :expiration
 </td><td width="50%">
 
 Expires :expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -871,6 +943,15 @@ From
 </td></tr>
 <tr><td width="50%">
 
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td></tr>
+<tr><td width="50%">
+
 Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td><td width="50%">
@@ -907,11 +988,11 @@ If you did not receive the email
 </td></tr>
 <tr><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
@@ -925,11 +1006,47 @@ Impersonate
 </td></tr>
 <tr><td width="50%">
 
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
 Invalid JSON was returned from the route.
 
 </td><td width="50%">
 
 Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoices
+
+</td><td width="50%">
+
+Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -966,6 +1083,15 @@ Korea, Republic of
 </td><td width="50%">
 
 Korea, Republic of
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -1056,6 +1182,15 @@ Managing billing for :billableName
 </td><td width="50%">
 
 Managing billing for :billableName
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
 
 </td></tr>
 <tr><td width="50%">
@@ -1186,6 +1321,15 @@ Notifications
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.
 
 </td><td width="50%">
@@ -1285,15 +1429,6 @@ Payments
 </td></tr>
 <tr><td width="50%">
 
-Person
-
-</td><td width="50%">
-
-Person
-
-</td></tr>
-<tr><td width="50%">
-
 Please accept the terms of service.
 
 </td><td width="50%">
@@ -1312,11 +1447,20 @@ Please confirm your password before continuing.
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
@@ -1344,33 +1488,6 @@ Qatar
 </td><td width="50%">
 
 Qatar
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt Email Addresses
-
-</td><td width="50%">
-
-Receipt Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt emails updated successfully.
-
-</td><td width="50%">
-
-Receipt emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Receipts
-
-</td><td width="50%">
-
-Receipts
 
 </td></tr>
 <tr><td width="50%">
@@ -1515,6 +1632,15 @@ Scroll to top
 </td><td width="50%">
 
 Scroll to top
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -1834,6 +1960,15 @@ The image could not be loaded.
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -1866,15 +2001,6 @@ The provided VAT number is invalid.
 </td><td width="50%">
 
 The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -1933,6 +2059,15 @@ The selected plan is invalid.
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 There are no fields to display.
 
 </td><td width="50%">
@@ -1947,15 +2082,6 @@ There are no new notifications.
 </td><td width="50%">
 
 There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There is no active subscription.
-
-</td><td width="50%">
-
-There is no active subscription.
 
 </td></tr>
 <tr><td width="50%">
@@ -2014,11 +2140,11 @@ This invoice is no longer open.
 </td></tr>
 <tr><td width="50%">
 
-This subscription cannot be resumed. Please create a new subscription.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
 
-This subscription cannot be resumed. Please create a new subscription.
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
@@ -2167,6 +2293,24 @@ User Actions
 </td></tr>
 <tr><td width="50%">
 
+User Security
+
+</td><td width="50%">
+
+User Security
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
 VAT Number
 
 </td><td width="50%">
@@ -2190,24 +2334,6 @@ Verify Your Email Address
 </td><td width="50%">
 
 Verify Your Email Address
-
-</td></tr>
-<tr><td width="50%">
-
-View Receipt
-
-</td><td width="50%">
-
-View Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">
@@ -2248,11 +2374,11 @@ We have emailed your password reset link!
 </td></tr>
 <tr><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">
@@ -2374,15 +2500,6 @@ Your card was declined. Please contact your card issuer for more information.
 </td></tr>
 <tr><td width="50%">
 
-Your current payment method is :paypal.
-
-</td><td width="50%">
-
-Your current payment method is :paypal.
-
-</td></tr>
-<tr><td width="50%">
-
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 
 </td><td width="50%">
@@ -2397,6 +2514,15 @@ Your email address is unverified.
 </td><td width="50%">
 
 Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">
@@ -2464,6 +2590,15 @@ Your subscription has been successfully cancelled.
 </td></tr>
 <tr><td width="50%">
 
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td></tr>
+<tr><td width="50%">
+
 Your subscription was successfully resumed.
 
 </td><td width="50%">
@@ -2506,7 +2641,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 31
+##### Missing: 35
 
 <table width="100%">
 <tr><th width="50%">
@@ -2543,6 +2678,15 @@ can
 </td><td width="50%">
 
 This field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -2754,6 +2898,24 @@ This field must be present when :values are present.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -2777,6 +2939,15 @@ required_if_accepted
 </td><td width="50%">
 
 This field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
 
 </td></tr>
 <tr><td width="50%">
@@ -2805,7 +2976,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 18
+##### Missing: 22
 
 <table width="100%">
 <tr><th width="50%">
@@ -2824,6 +2995,15 @@ can
 </td><td width="50%">
 
 The :attribute field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -2954,6 +3134,24 @@ The :attribute field must be present when :values are present.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibits
 
 </td><td width="50%">
@@ -2977,6 +3175,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 </table>

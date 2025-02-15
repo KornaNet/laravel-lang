@@ -4,12 +4,12 @@ editLink: false
 
 # ti
 
-##### All missed: 3
+##### All missed: 4
 
 
-### json
+### php-inline
 
-##### Missing: 3
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,29 +23,58 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Hold Up!
+prohibited_if_accepted
 
 </td><td width="50%">
 
-Hold Up!
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Log In
+prohibited_if_declined
 
 </td><td width="50%">
 
-Log In
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-SKU
+prohibited_if_declined
 
 </td><td width="50%">
 
-SKU
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

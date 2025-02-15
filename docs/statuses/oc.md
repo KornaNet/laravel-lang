@@ -4,7 +4,7 @@ editLink: false
 
 # oc
 
-##### All missed: 891
+##### All missed: 917
 
 
 ### json-inline
@@ -155,7 +155,7 @@ The given field has appeared in a data leak. Please choose a different field.
 
 ### json
 
-##### Missing: 817
+##### Missing: 835
 
 <table width="100%">
 <tr><th width="50%">
@@ -196,15 +196,6 @@ Value
 </td></tr>
 <tr><td width="50%">
 
-365 Days
-
-</td><td width="50%">
-
-365 Days
-
-</td></tr>
-<tr><td width="50%">
-
 60 Days
 
 </td><td width="50%">
@@ -219,6 +210,15 @@ Value
 </td><td width="50%">
 
 90 Days
+
+</td></tr>
+<tr><td width="50%">
+
+A decryption key is required.
+
+</td><td width="50%">
+
+A decryption key is required.
 
 </td></tr>
 <tr><td width="50%">
@@ -273,6 +273,24 @@ Action
 </td><td width="50%">
 
 Action
+
+</td></tr>
+<tr><td width="50%">
+
+Action Event
+
+</td><td width="50%">
+
+Action Event
+
+</td></tr>
+<tr><td width="50%">
+
+Action Events
+
+</td><td width="50%">
+
+Action Events
 
 </td></tr>
 <tr><td width="50%">
@@ -835,6 +853,15 @@ Are you sure you want to log out?
 </td></tr>
 <tr><td width="50%">
 
+Are you sure you want to mark all notifications as read?
+
+</td><td width="50%">
+
+Are you sure you want to mark all notifications as read?
+
+</td></tr>
+<tr><td width="50%">
+
 Are you sure you want to remove this item?
 
 </td><td width="50%">
@@ -993,15 +1020,6 @@ Attach files by dragging & dropping, selecting or pasting them.
 </td><td width="50%">
 
 Attach files by dragging & dropping, selecting or pasting them.
-
-</td></tr>
-<tr><td width="50%">
-
-Attendance
-
-</td><td width="50%">
-
-Attendance
 
 </td></tr>
 <tr><td width="50%">
@@ -1384,6 +1402,15 @@ Change Subscription Plan
 </td></tr>
 <tr><td width="50%">
 
+Change the current payment method attached to your subscription
+
+</td><td width="50%">
+
+Change the current payment method attached to your subscription
+
+</td></tr>
+<tr><td width="50%">
+
 Changes
 
 </td><td width="50%">
@@ -1443,15 +1470,6 @@ Choose :resource
 </td><td width="50%">
 
 Choose :resource
-
-</td></tr>
-<tr><td width="50%">
-
-Choose a project
-
-</td><td width="50%">
-
-Choose a project
 
 </td></tr>
 <tr><td width="50%">
@@ -1969,6 +1987,15 @@ Delete
 </td></tr>
 <tr><td width="50%">
 
+Delete :resource
+
+</td><td width="50%">
+
+Delete :resource
+
+</td></tr>
+<tr><td width="50%">
+
 Delete Account
 
 </td><td width="50%">
@@ -2001,6 +2028,15 @@ Delete File
 </td><td width="50%">
 
 Delete File
+
+</td></tr>
+<tr><td width="50%">
+
+Delete Notification
+
+</td><td width="50%">
+
+Delete Notification
 
 </td></tr>
 <tr><td width="50%">
@@ -2140,11 +2176,11 @@ Download
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
+Download Invoice
 
 </td><td width="50%">
 
-Download Receipt
+Download Invoice
 
 </td></tr>
 <tr><td width="50%">
@@ -2293,11 +2329,11 @@ Email Password Reset Link
 </td></tr>
 <tr><td width="50%">
 
-Employee
+Email Verification
 
 </td><td width="50%">
 
-Employee
+Email Verification
 
 </td></tr>
 <tr><td width="50%">
@@ -2311,11 +2347,47 @@ Enable
 </td></tr>
 <tr><td width="50%">
 
+Encrypted environment file already exists.
+
+</td><td width="50%">
+
+Encrypted environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Encrypted environment file not found.
+
+</td><td width="50%">
+
+Encrypted environment file not found.
+
+</td></tr>
+<tr><td width="50%">
+
 Ensure your account is using a long, random password to stay secure.
 
 </td><td width="50%">
 
 Ensure your account is using a long, random password to stay secure.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file already exists.
+
+</td><td width="50%">
+
+Environment file already exists.
+
+</td></tr>
+<tr><td width="50%">
+
+Environment file not found.
+
+</td><td width="50%">
+
+Environment file not found.
 
 </td></tr>
 <tr><td width="50%">
@@ -2388,6 +2460,15 @@ Expires :expiration
 </td><td width="50%">
 
 Expires :expiration
+
+</td></tr>
+<tr><td width="50%">
+
+Export As CSV
+
+</td><td width="50%">
+
+Export As CSV
 
 </td></tr>
 <tr><td width="50%">
@@ -2514,6 +2595,15 @@ Force Delete
 </td><td width="50%">
 
 Force Delete
+
+</td></tr>
+<tr><td width="50%">
+
+Force Delete :resource
+
+</td><td width="50%">
+
+Force Delete :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -2793,6 +2883,15 @@ Haiti
 </td><td width="50%">
 
 Haiti
+
+</td></tr>
+<tr><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
+
+</td><td width="50%">
+
+Having second thoughts about cancelling your subscription? You can instantly reactivate your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
 
 </td></tr>
 <tr><td width="50%">
@@ -2968,11 +3067,11 @@ If you do not have an account, you may create one by clicking the button below. 
 </td></tr>
 <tr><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td><td width="50%">
 
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
+If you need to add specific contact or tax information to your invoices, like your full business name, VAT identification number, or address of record, you may add it here.
 
 </td></tr>
 <tr><td width="50%">
@@ -3024,11 +3123,47 @@ Indonesia
 </td></tr>
 <tr><td width="50%">
 
+Invalid filename.
+
+</td><td width="50%">
+
+Invalid filename.
+
+</td></tr>
+<tr><td width="50%">
+
 Invalid JSON was returned from the route.
 
 </td><td width="50%">
 
 Invalid JSON was returned from the route.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice Email Addresses
+
+</td><td width="50%">
+
+Invoice Email Addresses
+
+</td></tr>
+<tr><td width="50%">
+
+Invoice emails updated successfully.
+
+</td><td width="50%">
+
+Invoice emails updated successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+Invoices
+
+</td><td width="50%">
+
+Invoices
 
 </td></tr>
 <tr><td width="50%">
@@ -3308,6 +3443,15 @@ Lebanon
 </td><td width="50%">
 
 Lebanon
+
+</td></tr>
+<tr><td width="50%">
+
+length
+
+</td><td width="50%">
+
+length
 
 </td></tr>
 <tr><td width="50%">
@@ -3623,6 +3767,15 @@ March
 </td><td width="50%">
 
 March
+
+</td></tr>
+<tr><td width="50%">
+
+Mark all notifications as read
+
+</td><td width="50%">
+
+Mark all notifications as read
 
 </td></tr>
 <tr><td width="50%">
@@ -4203,6 +4356,15 @@ of
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Oman
 
 </td><td width="50%">
@@ -4356,20 +4518,20 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
-password
+Password
 
 </td><td width="50%">
 
-password
+Password
 
 </td></tr>
 <tr><td width="50%">
 
-Password
+password
 
 </td><td width="50%">
 
-Password
+password
 
 </td></tr>
 <tr><td width="50%">
@@ -4482,15 +4644,6 @@ Permissions
 </td></tr>
 <tr><td width="50%">
 
-Person
-
-</td><td width="50%">
-
-Person
-
-</td></tr>
-<tr><td width="50%">
-
 Peru
 
 </td><td width="50%">
@@ -4581,11 +4734,11 @@ Please enter your password to confirm you would like to log out of your other br
 </td></tr>
 <tr><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
 
 </td><td width="50%">
 
-Please provide a maximum of three receipt emails addresses.
+Please provide a maximum of three invoice emails addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -4595,6 +4748,15 @@ Please provide the email address of the person you would like to add to this tea
 </td><td width="50%">
 
 Please provide the email address of the person you would like to add to this team.
+
+</td></tr>
+<tr><td width="50%">
+
+Please set a default payment method before retrying payments.
+
+</td><td width="50%">
+
+Please set a default payment method before retrying payments.
 
 </td></tr>
 <tr><td width="50%">
@@ -4716,33 +4878,6 @@ Quarter To Date
 </td></tr>
 <tr><td width="50%">
 
-Receipt Email Addresses
-
-</td><td width="50%">
-
-Receipt Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Receipt emails updated successfully.
-
-</td><td width="50%">
-
-Receipt emails updated successfully.
-
-</td></tr>
-<tr><td width="50%">
-
-Receipts
-
-</td><td width="50%">
-
-Receipts
-
-</td></tr>
-<tr><td width="50%">
-
 Recovery Code
 
 </td><td width="50%">
@@ -4761,11 +4896,11 @@ Refresh
 </td></tr>
 <tr><td width="50%">
 
-Regards
+Regards,
 
 </td><td width="50%">
 
-Regards
+Regards,
 
 </td></tr>
 <tr><td width="50%">
@@ -4937,6 +5072,15 @@ Restore
 </td><td width="50%">
 
 Restore
+
+</td></tr>
+<tr><td width="50%">
+
+Restore :resource
+
+</td><td width="50%">
+
+Restore :resource
 
 </td></tr>
 <tr><td width="50%">
@@ -5234,6 +5378,15 @@ Search
 </td><td width="50%">
 
 Search
+
+</td></tr>
+<tr><td width="50%">
+
+Secure Area
+
+</td><td width="50%">
+
+Secure Area
 
 </td></tr>
 <tr><td width="50%">
@@ -6138,6 +6291,15 @@ The image could not be loaded.
 </td></tr>
 <tr><td width="50%">
 
+The invoice emails must be valid email addresses.
+
+</td><td width="50%">
+
+The invoice emails must be valid email addresses.
+
+</td></tr>
+<tr><td width="50%">
+
 The password is incorrect.
 
 </td><td width="50%">
@@ -6197,15 +6359,6 @@ The provided VAT number is invalid.
 </td><td width="50%">
 
 The provided VAT number is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-The receipt emails must be valid email addresses.
-
-</td><td width="50%">
-
-The receipt emails must be valid email addresses.
 
 </td></tr>
 <tr><td width="50%">
@@ -6273,6 +6426,15 @@ The selected plan is invalid.
 </td></tr>
 <tr><td width="50%">
 
+The selected resources have been :action!
+
+</td><td width="50%">
+
+The selected resources have been :action!
+
+</td></tr>
+<tr><td width="50%">
+
 The team's name and owner information.
 
 </td><td width="50%">
@@ -6305,15 +6467,6 @@ There are no new notifications.
 </td><td width="50%">
 
 There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There is no active subscription.
-
-</td><td width="50%">
-
-There is no active subscription.
 
 </td></tr>
 <tr><td width="50%">
@@ -6444,20 +6597,20 @@ This password reset link will expire in :count minutes.
 </td></tr>
 <tr><td width="50%">
 
-This resource no longer exists
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td><td width="50%">
 
-This resource no longer exists
+This payment was initiated, but the funds have not been received yet. This can take up to 14 days.
 
 </td></tr>
 <tr><td width="50%">
 
-This subscription cannot be resumed. Please create a new subscription.
+This resource no longer exists
 
 </td><td width="50%">
 
-This subscription cannot be resumed. Please create a new subscription.
+This resource no longer exists
 
 </td></tr>
 <tr><td width="50%">
@@ -6930,6 +7083,24 @@ User Actions
 </td></tr>
 <tr><td width="50%">
 
+User Security
+
+</td><td width="50%">
+
+User Security
+
+</td></tr>
+<tr><td width="50%">
+
+Username
+
+</td><td width="50%">
+
+Username
+
+</td></tr>
+<tr><td width="50%">
+
 Uzbekistan
 
 </td><td width="50%">
@@ -7007,24 +7178,6 @@ View
 </td><td width="50%">
 
 View
-
-</td></tr>
-<tr><td width="50%">
-
-View Receipt
-
-</td><td width="50%">
-
-View Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-Visits
-
-</td><td width="50%">
-
-Visits
 
 </td></tr>
 <tr><td width="50%">
@@ -7083,11 +7236,11 @@ We were unable to find a registered user with this email address.
 </td></tr>
 <tr><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td><td width="50%">
 
-We will send a receipt download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
+We will send an invoice download link to the email addresses that you specify below. You may separate multiple email addresses using commas.
 
 </td></tr>
 <tr><td width="50%">
@@ -7380,15 +7533,6 @@ Your card was declined. Please contact your card issuer for more information.
 </td></tr>
 <tr><td width="50%">
 
-Your current payment method is :paypal.
-
-</td><td width="50%">
-
-Your current payment method is :paypal.
-
-</td></tr>
-<tr><td width="50%">
-
 Your current payment method is a credit card ending in :lastFour that expires on :expiration.
 
 </td><td width="50%">
@@ -7403,6 +7547,15 @@ Your email address is unverified.
 </td><td width="50%">
 
 Your email address is unverified.
+
+</td></tr>
+<tr><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
+
+</td><td width="50%">
+
+Your last payment of :amount failed. Please update your payment method to retry the failed payment.
 
 </td></tr>
 <tr><td width="50%">
@@ -7470,6 +7623,15 @@ Your subscription has been successfully cancelled.
 </td></tr>
 <tr><td width="50%">
 
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td><td width="50%">
+
+Your subscription has been successfully cancelled. You will still have access until the end of your billing period.
+
+</td></tr>
+<tr><td width="50%">
+
 Your subscription was successfully resumed.
 
 </td><td width="50%">
@@ -7530,7 +7692,7 @@ Zip / Postal Code
 
 ### php-inline
 
-##### Missing: 36
+##### Missing: 40
 
 <table width="100%">
 <tr><th width="50%">
@@ -7576,6 +7738,15 @@ can
 </td><td width="50%">
 
 This field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+This field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -7805,6 +7976,24 @@ This field is prohibited when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibited_unless
 
 </td><td width="50%">
@@ -7850,6 +8039,15 @@ This field is required when :other is accepted.
 </td></tr>
 <tr><td width="50%">
 
+required_if_declined
+
+</td><td width="50%">
+
+This field is required when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 ulid
 
 </td><td width="50%">
@@ -7874,7 +8072,7 @@ This field must be uppercase.
 
 ### php
 
-##### Missing: 24
+##### Missing: 28
 
 <table width="100%">
 <tr><th width="50%">
@@ -7902,6 +8100,15 @@ can
 </td><td width="50%">
 
 The :attribute field contains an unauthorized value.
+
+</td></tr>
+<tr><td width="50%">
+
+contains
+
+</td><td width="50%">
+
+The :attribute field is missing a required value.
 
 </td></tr>
 <tr><td width="50%">
@@ -8050,6 +8257,24 @@ The :attribute field is prohibited when :other is :value.
 </td></tr>
 <tr><td width="50%">
 
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
+
+</td></tr>
+<tr><td width="50%">
+
 prohibited_unless
 
 </td><td width="50%">
@@ -8091,6 +8316,15 @@ required_if_accepted
 </td><td width="50%">
 
 The :attribute field is required when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+required_if_declined
+
+</td><td width="50%">
+
+The :attribute field is required when :other is declined.
 
 </td></tr>
 <tr><td width="50%">

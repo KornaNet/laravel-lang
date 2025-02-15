@@ -4,12 +4,12 @@ editLink: false
 
 # sl
 
-##### All missed: 48
+##### All missed: 46
 
 
 ### json
 
-##### Missing: 48
+##### Missing: 42
 
 <table width="100%">
 <tr><th width="50%">
@@ -113,24 +113,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
-Guadeloupe
-
-</td><td width="50%">
-
-Guadeloupe
-
-</td></tr>
-<tr><td width="50%">
-
 Haiti
 
 </td><td width="50%">
@@ -145,15 +127,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -194,29 +167,11 @@ Kosovo
 </td></tr>
 <tr><td width="50%">
 
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
 Malta
 
 </td><td width="50%">
 
 Malta
-
-</td></tr>
-<tr><td width="50%">
-
-Mayotte
-
-</td><td width="50%">
-
-Mayotte
 
 </td></tr>
 <tr><td width="50%">
@@ -325,15 +280,6 @@ Saint Barthelemy
 </td><td width="50%">
 
 St. Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
 
 </td></tr>
 <tr><td width="50%">
@@ -451,6 +397,82 @@ Venezuela
 </td><td width="50%">
 
 Venezuela
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

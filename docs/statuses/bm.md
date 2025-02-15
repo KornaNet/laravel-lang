@@ -4,12 +4,12 @@ editLink: false
 
 # bm
 
-##### All missed: 10
+##### All missed: 4
 
 
-### json
+### php-inline
 
-##### Missing: 10
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,92 +23,58 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-Gabon
+prohibited_if_accepted
 
 </td><td width="50%">
 
-Gabon
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Mali
+prohibited_if_declined
 
 </td><td width="50%">
 
-Mali
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Mark Unread
+prohibited_if_declined
 
 </td><td width="50%">
 
-Mark Unread
-
-</td></tr>
-<tr><td width="50%">
-
-Niue
-
-</td><td width="50%">
-
-Niue
-
-</td></tr>
-<tr><td width="50%">
-
-Page Expired
-
-</td><td width="50%">
-
-Page Expired
-
-</td></tr>
-<tr><td width="50%">
-
-Sudan
-
-</td><td width="50%">
-
-Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Togo
-
-</td><td width="50%">
-
-Togo
-
-</td></tr>
-<tr><td width="50%">
-
-Tokelau
-
-</td><td width="50%">
-
-Tokelau
-
-</td></tr>
-<tr><td width="50%">
-
-Tonga
-
-</td><td width="50%">
-
-Tonga
-
-</td></tr>
-<tr><td width="50%">
-
-Uganda
-
-</td><td width="50%">
-
-Uganda
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # sv
 
-##### All missed: 108
+##### All missed: 100
 
 
 ### json
 
-##### Missing: 108
+##### Missing: 96
 
 <table width="100%">
 <tr><th width="50%">
@@ -77,15 +77,6 @@ Argentina
 </td></tr>
 <tr><td width="50%">
 
-Aruba
-
-</td><td width="50%">
-
-Aruba
-
-</td></tr>
-<tr><td width="50%">
-
 Bahamas
 
 </td><td width="50%">
@@ -118,15 +109,6 @@ Barbados
 </td><td width="50%">
 
 Barbados
-
-</td></tr>
-<tr><td width="50%">
-
-Belize
-
-</td><td width="50%">
-
-Belize
 
 </td></tr>
 <tr><td width="50%">
@@ -302,15 +284,6 @@ Gibraltar
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
 Guadeloupe
 
 </td><td width="50%">
@@ -356,15 +329,6 @@ Guinea
 </td></tr>
 <tr><td width="50%">
 
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
 Guyana
 
 </td><td width="50%">
@@ -379,24 +343,6 @@ Haiti
 </td><td width="50%">
 
 Haiti
-
-</td></tr>
-<tr><td width="50%">
-
-Honduras
-
-</td><td width="50%">
-
-Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -509,15 +455,6 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Macao
-
-</td><td width="50%">
-
-Macao
-
-</td></tr>
-<tr><td width="50%">
-
 Malawi
 
 </td><td width="50%">
@@ -662,6 +599,15 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
+OK
+
+</td><td width="50%">
+
+OK
+
+</td></tr>
+<tr><td width="50%">
+
 Pakistan
 
 </td><td width="50%">
@@ -694,15 +640,6 @@ Paraguay
 </td><td width="50%">
 
 Paraguay
-
-</td></tr>
-<tr><td width="50%">
-
-Person
-
-</td><td width="50%">
-
-Person
 
 </td></tr>
 <tr><td width="50%">
@@ -752,24 +689,6 @@ Rwanda
 </td></tr>
 <tr><td width="50%">
 
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Lucia
-
-</td><td width="50%">
-
-Saint Lucia
-
-</td></tr>
-<tr><td width="50%">
-
 Samoa
 
 </td><td width="50%">
@@ -815,29 +734,11 @@ Singapore
 </td></tr>
 <tr><td width="50%">
 
-Sint Maarten (Dutch part)
-
-</td><td width="50%">
-
-Sint Maarten
-
-</td></tr>
-<tr><td width="50%">
-
 Somalia
 
 </td><td width="50%">
 
 Somalia
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
 
 </td></tr>
 <tr><td width="50%">
@@ -874,15 +775,6 @@ Thailand
 </td><td width="50%">
 
 Thailand
-
-</td></tr>
-<tr><td width="50%">
-
-Togo
-
-</td><td width="50%">
-
-Togo
 
 </td></tr>
 <tr><td width="50%">
@@ -991,6 +883,82 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # sd
 
-##### All missed: 6
+##### All missed: 4
 
 
-### json
+### php-inline
 
-##### Missing: 6
+##### Missing: 2
 
 <table width="100%">
 <tr><th width="50%">
@@ -23,56 +23,58 @@ Value
 </th></tr>
 <tr><td width="50%">
 
-CSV (.csv)
+prohibited_if_accepted
 
 </td><td width="50%">
 
-CSV (.csv)
+This field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-Excel (.xlsx)
+prohibited_if_declined
 
 </td><td width="50%">
 
-Excel (.xlsx)
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
 
 </td></tr>
 <tr><td width="50%">
 
-ID
+prohibited_if_declined
 
 </td><td width="50%">
 
-ID
-
-</td></tr>
-<tr><td width="50%">
-
-Micronesia, Federated States of
-
-</td><td width="50%">
-
-Micronesia, Federated States of
-
-</td></tr>
-<tr><td width="50%">
-
-Pitcairn
-
-</td><td width="50%">
-
-Pitcairn
-
-</td></tr>
-<tr><td width="50%">
-
-SKU
-
-</td><td width="50%">
-
-SKU
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>
