@@ -9,7 +9,7 @@ editLink: false
 
 ### json
 
-##### Missing: 62
+##### Missing: 58
 
 <table width="100%">
 <tr><th width="50%">
@@ -176,15 +176,6 @@ Gambia
 </td></tr>
 <tr><td width="50%">
 
-Grenada
-
-</td><td width="50%">
-
-Grenada
-
-</td></tr>
-<tr><td width="50%">
-
 Guadeloupe
 
 </td><td width="50%">
@@ -253,15 +244,6 @@ Honduras
 </td><td width="50%">
 
 Honduras
-
-</td></tr>
-<tr><td width="50%">
-
-ID
-
-</td><td width="50%">
-
-ID
 
 </td></tr>
 <tr><td width="50%">
@@ -361,15 +343,6 @@ Moldova
 </td><td width="50%">
 
 Moldova
-
-</td></tr>
-<tr><td width="50%">
-
-Monaco
-
-</td><td width="50%">
-
-Monaco
 
 </td></tr>
 <tr><td width="50%">
@@ -570,13 +543,80 @@ Zambia
 Zambia
 
 </td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-Zimbabwe
+prohibited_if_accepted
 
 </td><td width="50%">
 
-Zimbabwe
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>

@@ -4,12 +4,12 @@ editLink: false
 
 # sk
 
-##### All missed: 56
+##### All missed: 48
 
 
 ### json
 
-##### Missing: 56
+##### Missing: 44
 
 <table width="100%">
 <tr><th width="50%">
@@ -59,15 +59,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Belize
-
-</td><td width="50%">
-
-Belize
-
-</td></tr>
-<tr><td width="50%">
-
 Benin
 
 </td><td width="50%">
@@ -95,38 +86,11 @@ Burkina Faso
 </td></tr>
 <tr><td width="50%">
 
-Burundi
-
-</td><td width="50%">
-
-Burundi
-
-</td></tr>
-<tr><td width="50%">
-
 Cyprus
 
 </td><td width="50%">
 
 Cyprus
-
-</td></tr>
-<tr><td width="50%">
-
-December
-
-</td><td width="50%">
-
-December
-
-</td></tr>
-<tr><td width="50%">
-
-Editor
-
-</td><td width="50%">
-
-Editor
 
 </td></tr>
 <tr><td width="50%">
@@ -145,15 +109,6 @@ Eritrea
 </td><td width="50%">
 
 Eritrea
-
-</td></tr>
-<tr><td width="50%">
-
-Gambia
-
-</td><td width="50%">
-
-Gambia
 
 </td></tr>
 <tr><td width="50%">
@@ -212,15 +167,6 @@ Guinea
 </td></tr>
 <tr><td width="50%">
 
-Guinea-Bissau
-
-</td><td width="50%">
-
-Guinea-Bissau
-
-</td></tr>
-<tr><td width="50%">
-
 Guyana
 
 </td><td width="50%">
@@ -248,29 +194,11 @@ Honduras
 </td></tr>
 <tr><td width="50%">
 
-ID
-
-</td><td width="50%">
-
-ID
-
-</td></tr>
-<tr><td width="50%">
-
 India
 
 </td><td width="50%">
 
 India
-
-</td></tr>
-<tr><td width="50%">
-
-Jersey
-
-</td><td width="50%">
-
-Jersey
 
 </td></tr>
 <tr><td width="50%">
@@ -289,15 +217,6 @@ Lesotho
 </td><td width="50%">
 
 Lesotho
-
-</td></tr>
-<tr><td width="50%">
-
-Macao
-
-</td><td width="50%">
-
-Macao
 
 </td></tr>
 <tr><td width="50%">
@@ -374,24 +293,6 @@ Pakistan
 </td></tr>
 <tr><td width="50%">
 
-Palau
-
-</td><td width="50%">
-
-Palau
-
-</td></tr>
-<tr><td width="50%">
-
-Panama
-
-</td><td width="50%">
-
-Panama
-
-</td></tr>
-<tr><td width="50%">
-
 Peru
 
 </td><td width="50%">
@@ -406,15 +307,6 @@ Rwanda
 </td><td width="50%">
 
 Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Réunion
-
-</td><td width="50%">
-
-Réunion
 
 </td></tr>
 <tr><td width="50%">
@@ -523,6 +415,82 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php-inline
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+This field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+This field is prohibited when :other is declined.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 2
+
+<table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
+<tr><td width="50%">
+
+prohibited_if_accepted
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is accepted.
+
+</td></tr>
+<tr><td width="50%">
+
+prohibited_if_declined
+
+</td><td width="50%">
+
+The :attribute field is prohibited when :other is declined.
 
 </td></tr>
 </table>
